@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "47854d4b-a33e-42fd-163e-8bdaaaa19108",
+      "090f6750-d0ed-0ec1-a364-82e8297973e7",
+      "b846cdfa-27a1-4cc8-890c-34ffd45170b8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Intelligence: Practice, Problems and Prospects",
+  "course_description": "This course will explore the organization and functions of the U.S. Intelligence Community, its interaction with national security policymakers, key issues about its workings, and the challenges it faces in defining its future role. The events of 9/11 and the invasion of Iraq have focused new attention on national intelligence, including the most significant reorganization of the community since the National Security Act of 1947. The course will highlight some of the major debates about the role, practices, and problems of national intelligence.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.951",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
